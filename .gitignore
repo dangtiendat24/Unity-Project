@@ -23,6 +23,8 @@
 /*.pdb
 /*.opendb
 /*.VC.db
+/*.umtp
+/*.vscode
 
 .DS_Store
 Thumbs.db
